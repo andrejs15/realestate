@@ -269,7 +269,6 @@ main {
     padding: 0.5em 1em;
     border: 1px solid #ccc;
     border-radius: 1.875em; /* 30px*/
-
 }
 
 #sort-select {
@@ -322,11 +321,6 @@ main {
     line-height: 1em;
     margin: 1em 0 0.5em 0.5em;
 }
-
-i {
-
-}
-
 
 #toggle-filters {
     font-weight: bold;
